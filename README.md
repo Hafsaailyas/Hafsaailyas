@@ -206,12 +206,3 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 <!--
 **Hafsaailyas/Hafsaailyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-this is my curent readme and i wanna upadate it as mobile app developer firsta nd then business central consultant who created AL apis and extensions and know how to integrate it in mobile apps and worked in flutter , android, maui and i am going to paste my resume through hich u will get the info about my career so u need to create a professional readme which does not look wague and also i have added three projects portfolio of my previous company in the github so u need to connect it with the featured projects so when user clicks it that project will get open 
-
-https://github.com/Hafsaailyas/Android-Mosque-TV-App
-https://github.com/Hafsaailyas/android-mosque-prayers-notification-app
-https://github.com/Hafsaailyas/dynasol-365-wms-portfolio
-
-
-u just update this one 
