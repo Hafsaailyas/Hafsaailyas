@@ -9,21 +9,39 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+cross-platform+mobile+apps;Developing+Business+Central+extensions;Automating+workflows+with+Power+Automate;Creating+integrated+mobile-ERP+solutions" alt="Typing SVG" />
+  <strong>📱 Mobile App Developer | 🔗 Backend & API Integration | 🏢 Business Central Consultant</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+Android+and+cross-platform+apps;Developing+REST+APIs+and+backend+logic;Integrating+mobile+apps+with+Business+Central;Automating+workflows+with+Power+Platform" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🎯 **What I Do**
 
-I specialize in **bridging mobile applications with enterprise systems** to create seamless digital experiences. My expertise spans from standalone mobile apps to fully integrated ERP-mobile solutions that transform business processes.
+I am a **Mobile App Developer** focused on building **scalable Android and cross-platform applications** using **Kotlin, Java, Flutter, and .NET MAUI**.
 
-**Key Areas:**
-- 📱 **Mobile App Development**: Building cross-platform applications using Flutter and native Android (Kotlin/Java)
-- 🏢 **Business Central Consulting**: Developing custom extensions, integrations, and solutions in AL
-- ⚙️ **Workflow Automation**: Creating efficient business processes using Power Automate and Power Platform
-- 🔗 **System Integration**: Connecting mobile applications with ERP systems (Dynamics 365/Business Central)
-- 🚀 **End-to-End Solutions**: From requirement analysis to deployment and maintenance
+In addition to frontend development, I also work on the **backend side of mobile applications**, including:
+- Designing and consuming **REST APIs**
+- Handling **data flow, synchronization, and integrations**
+- Building complete **end-to-end mobile solutions**
+
+Alongside mobile development, I work as a **Business Central Consultant**, where I:
+- Develop **AL-based APIs and extensions**
+- Integrate **Business Central with mobile applications**
+- Design **ERP-connected mobile solutions**
+
+I also create **workflow automation solutions** using **Power Automate and Power Platform** to streamline business processes.
+
+---
+
+### **Key Areas:**
+- 📱 **Mobile App Development**: Android (Kotlin/Java), Flutter, .NET MAUI  
+- 🔗 **Backend & API Development**: REST APIs, mobile app integrations, data handling  
+- 🏢 **Business Central Consulting**: AL APIs, extensions, ERP integrations  
+- ⚙️ **Workflow Automation**: Power Automate, Power Platform  
+- 🚀 **End-to-End Solutions**: From mobile UI to backend and ERP connectivity  
 
 ---
 
