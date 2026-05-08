@@ -5,10 +5,6 @@
 </h1>
 
 <p align="center">
-  <strong>🚀 Software & Mobile Developer | 💼 Business Central Consultant | ⚡ AL & ERP Specialist</strong>
-</p>
-
-<p align="center">
   <strong>📱 Mobile App Developer | 🔗 Backend & API Integration | 🏢 Business Central Consultant</strong>
 </p>
 
