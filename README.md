@@ -143,8 +143,8 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 
 <!-- Stats in one row -->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafsaailyass&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafsaailyass&layout=compact&theme=algolia" alt="Languages"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hafsaailyas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hafsaailyas&layout=compact&theme=algolia" alt="Languages"/>
 </p>
 
 </div>
@@ -171,7 +171,7 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
   <a href="your-portfolio-link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="28px" />
   </a>
-  <a href="https://github.com/hafsaailyass" target="_blank">
+  <a href="https://github.com/Hafsaailyas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28px" />
   </a>
 </p>
@@ -185,24 +185,24 @@ I specialize in **bridging mobile applications with enterprise systems** to crea
 
 <!-- Alternative badges using shields.io -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/hafsaailyass?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/hafsaailyass?style=for-the-badge&color=blue&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/last-commit/hafsaailyass/hafsaailyass?style=for-the-badge&color=blue&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/followers/Hafsaailyas?style=for-the-badge&color=blue&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Hafsaailyas?style=for-the-badge&color=blue&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/Hafsaailyas/Hafsaailyas?style=for-the-badge&color=blue&label=Last%20Commit" alt="Last Commit" />
 </p>
 
 <!-- GitHub Profile Summary Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsaailyass&theme=github_dark" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hafsaailyas&theme=github_dark" alt="Profile Details" width="100%" />
 </p>
 
 <!-- Activity Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsaailyass&theme=github_dark&utcOffset=5" alt="Productive Time" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsaailyass&theme=github_dark" alt="Most Commit Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hafsaailyas&theme=github_dark&utcOffset=5" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hafsaailyas&theme=github_dark" alt="Most Commit Language" width="49%" />
 </p>
 
 </details>
 
 <!--
-**hafsaailyass/hafsaailyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hafsaailyas/Hafsaailyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
