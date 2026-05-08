@@ -184,7 +184,7 @@ I also create **workflow automation solutions** using **Power Automate and Power
   <a href="https://www.linkedin.com/in/hafsa-ilyas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" />
   </a>
-  <a href="mailto:hafsaailyass@gmail.com" target="_blank">
+  <a href="mailto:hafsaailyass@gmail.com?subject=Hello Hafsa&body=I came across your GitHub profile...">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28px" />
   </a>
   <a href="your-portfolio-link" target="_blank">
