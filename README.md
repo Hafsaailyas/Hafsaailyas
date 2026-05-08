@@ -136,7 +136,7 @@ I also create **workflow automation solutions** using **Power Automate and Power
     <!-- NOTIFICATION APP -->
     <td width="33%" valign="top">
       <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app">
-        <h3 align="center">📱 Prayer Notification App</h3>
+        <h3 align="center">📱 Android Mosque Prayer Notification App</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
           <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
