@@ -181,10 +181,10 @@ I also create **workflow automation solutions** using **Power Automate and Power
 ## 📫 **Connect With Me**
 
 <p align="left">
-  <a href="your-linkedin-link" target="_blank">
+  <a href="https://www.linkedin.com/in/hafsa-ilyas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:hafsaailyass@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28px" />
   </a>
   <a href="your-portfolio-link" target="_blank">
