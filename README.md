@@ -184,9 +184,9 @@ I also create **workflow automation solutions** using **Power Automate and Power
   <a href="https://www.linkedin.com/in/hafsa-ilyas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" />
   </a>
-<p align="left">
-  📧 Email: <code>hafsaailyass@gmail.com</code> (click & copy)
-</p>
+  <a href="https://www.linkedin.com/in/hafsa-ilyas/" onclick="navigator.clipboard.writeText('hafsaailyass@gmail.com'); alert('Email copied: hafsaailyass@gmail.com'); return false;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28px" />
+</a>
   <a href="your-portfolio-link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="28px" />
   </a>
