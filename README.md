@@ -94,55 +94,57 @@ I also create **workflow automation solutions** using **Power Automate and Power
 
 ## 📂 **Featured Projects**
 
-## 📂 **Featured Projects**
-
 <table>
   <tr>
+    <!-- WMS PROJECT -->
     <td width="33%" valign="top">
-      <h3 align="center">📦 Dynasol Warehouse Management App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Business_Central-004578?style=flat-square&logo=microsoft-dynamics&logoColor=white" />
-        <img src="https://img.shields.io/badge/AL-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-      <p align="center">
-        Warehouse Management mobile solution built with Jetpack Compose, integrated with Dynamics 365 Business Central via custom AL APIs
-      </p>
-      <p align="center">
-        <a href="https://github.com/Hafsaailyas/dynasol-365-wms-portfolio">🔗 View Project</a>
-      </p>
+      <a href="https://github.com/Hafsaailyas/dynasol-365-wms-portfolio">
+        <h3 align="center">📦 Dynasol Warehouse Management App</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Business_Central-004578?style=flat-square&logo=microsoft-dynamics&logoColor=white" />
+          <img src="https://img.shields.io/badge/AL-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+          <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        </p>
+        <p align="center">
+          Warehouse Management mobile solution built with Jetpack Compose, integrated with Dynamics 365 Business Central via custom AL APIs
+        </p>
+        <p align="center"><strong>View Project →</strong></p>
+      </a>
     </td>
+    <!-- TV APP -->
     <td width="33%" valign="top">
-      <h3 align="center">🕌 Android Mosque TV App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
-      <p align="center">
-        Android TV application for mosque displays using XML and Jetpack Compose for prayer timings, announcements, and media playback
-      </p>
-      <p align="center">
-        <a href="https://github.com/Hafsaailyas/Android-Mosque-TV-App">🔗 View Project</a>
-      </p>
+      <a href="https://github.com/Hafsaailyas/Android-Mosque-TV-App">
+        <h3 align="center">🕌 Android Mosque TV App</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        </p>
+        <p align="center">
+          Android TV application for mosque displays using XML and Jetpack Compose for prayer timings, announcements, and media playback
+        </p>
+        <p align="center"><strong>View Project →</strong></p>
+      </a>
     </td>
+    <!-- NOTIFICATION APP -->
     <td width="33%" valign="top">
-      <h3 align="center">📱 Prayer Notification App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-      <p align="center">
-        Android app built with Jetpack Compose for prayer time notifications with API integration and background services
-      </p>
-      <p align="center">
-        <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app">🔗 View Project</a>
-      </p>
+      <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app">
+        <h3 align="center">📱 Prayer Notification App</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        </p>
+        <p align="center">
+          Android app built with Jetpack Compose for prayer time notifications with API integration and background services
+        </p>
+        <p align="center"><strong>View Project →</strong></p>
+      </a>
     </td>
+
   </tr>
 </table>
 
