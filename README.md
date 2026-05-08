@@ -94,63 +94,54 @@ I also create **workflow automation solutions** using **Power Automate and Power
 
 ## 📂 **Featured Projects**
 
+## 📂 **Featured Projects**
+
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">📦 Warehouse Mobile App</h3>
+      <h3 align="center">📦 Dynasol Warehouse Management App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Business_Central-004578?style=flat-square&logo=microsoft-dynamics&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-      <p align="center">Mobile app for warehouse operations fully integrated with Business Central</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🕌 Masjid Display System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
-      <p align="center">Digital display system for mosques with prayer times and announcements</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🧾 Invoice Management</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white" />
-      </p>
-      <p align="center">Standalone invoice creation and management mobile application</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🔗 ERP Integration Module</h3>
-      <p align="center">
         <img src="https://img.shields.io/badge/AL-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=microsoft-power-automate&logoColor=white" />
         <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       </p>
-      <p align="center">Bridge module connecting mobile apps to Business Central systems</p>
+      <p align="center">
+        Warehouse Management mobile solution built with Jetpack Compose, integrated with Dynamics 365 Business Central via custom AL APIs
+      </p>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/dynasol-365-wms-portfolio">🔗 View Project</a>
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🤖 AI Chatbot</h3>
+      <h3 align="center">🕌 Android Mosque TV App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-FF6F61?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-00B0FF?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white" />
       </p>
-      <p align="center">Final Year Project: Intelligent chatbot for educational assistance</p>
+      <p align="center">
+        Android TV application for mosque displays using XML and Jetpack Compose for prayer timings, announcements, and media playback
+      </p>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/Android-Mosque-TV-App">🔗 View Project</a>
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">⚙️ Workflow Automation</h3>
+      <h3 align="center">📱 Prayer Notification App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=flat-square&logo=microsoft-power-automate&logoColor=white" />
-        <img src="https://img.shields.io/badge/Office_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
-        <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       </p>
-      <p align="center">Business process automation solutions using Power Platform</p>
+      <p align="center">
+        Android app built with Jetpack Compose for prayer time notifications with API integration and background services
+      </p>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app">🔗 View Project</a>
+      </p>
     </td>
   </tr>
 </table>
