@@ -110,8 +110,10 @@ I also create **workflow automation solutions** using **Power Automate and Power
         <p align="center">
           Warehouse Management mobile solution built with Jetpack Compose, integrated with Dynamics 365 Business Central via custom AL APIs
         </p>
-        <p align="center"><strong>View Project →</strong></p>
       </a>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/dynasol-365-wms-portfolio"><strong>👉 View Project →</strong></a>
+      </p>
     </td>
     <!-- TV APP -->
     <td width="33%" valign="top">
@@ -126,8 +128,10 @@ I also create **workflow automation solutions** using **Power Automate and Power
         <p align="center">
           Android TV application for mosque displays using XML and Jetpack Compose for prayer timings, announcements, and media playback
         </p>
-        <p align="center"><strong>View Project →</strong></p>
       </a>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/Android-Mosque-TV-App"><strong>👉 View Project →</strong></a>
+      </p>
     </td>
     <!-- NOTIFICATION APP -->
     <td width="33%" valign="top">
@@ -141,8 +145,10 @@ I also create **workflow automation solutions** using **Power Automate and Power
         <p align="center">
           Android app built with Jetpack Compose for prayer time notifications with API integration and background services
         </p>
-        <p align="center"><strong>View Project →</strong></p>
       </a>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app"><strong>👉 View Project →</strong></a>
+      </p>
     </td>
 
   </tr>
