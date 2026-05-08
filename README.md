@@ -43,8 +43,6 @@ I also create **workflow automation solutions** using **Power Automate and Power
 
 ## 💼 **Core Competencies**
 
-## 💼 **Core Competencies**
-
 <div align="left">
 
 ### 📱 **Mobile Development**
