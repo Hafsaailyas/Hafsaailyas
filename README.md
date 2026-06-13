@@ -150,7 +150,25 @@ I also create **workflow automation solutions** using **Power Automate and Power
         <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app"><strong>👉 View Project →</strong></a>
       </p>
     </td>
-
+     <!-- SPENDSENSE -->
+    <td width="25%" valign="top">
+      <a href="https://github.com/Hafsaailyas/Android-Expense-Tracker-APP/tree/current1">
+        <h3 align="center">💰 SpendSense – AI Expense Tracker</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=flat-square&logo=google&logoColor=white" />
+          <img src="https://img.shields.io/badge/Room-FF6C37?style=flat-square&logo=sqlite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=android&logoColor=white" />
+        </p>
+        <p align="center">
+          AI-powered expense tracker with Google Gemini insights, multi-currency support, budget management, and offline-first architecture
+        </p>
+      </a>
+      <p align="center">
+        <a href="https://github.com/Hafsaailyas/Android-Expense-Tracker-APP/tree/current1"><strong>👉 View Project →</strong></a>
+      </p>
+    </td>
   </tr>
 </table>
 
