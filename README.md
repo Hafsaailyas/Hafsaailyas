@@ -150,8 +150,10 @@ I also create **workflow automation solutions** using **Power Automate and Power
         <a href="https://github.com/Hafsaailyas/android-mosque-prayers-notification-app"><strong>👉 View Project →</strong></a>
       </p>
     </td>
-     <!-- SPENDSENSE -->
-    <td width="25%" valign="top">
+  </tr>
+  <tr>
+    <!-- SPENDSENSE -->
+    <td width="33%" valign="top">
       <a href="https://github.com/Hafsaailyas/Android-Expense-Tracker-APP/tree/current1">
         <h3 align="center">💰 SpendSense – AI Expense Tracker</h3>
         <p align="center">
@@ -169,6 +171,9 @@ I also create **workflow automation solutions** using **Power Automate and Power
         <a href="https://github.com/Hafsaailyas/Android-Expense-Tracker-APP/tree/current1"><strong>👉 View Project →</strong></a>
       </p>
     </td>
+    <!-- EMPTY CELLS TO MAINTAIN LAYOUT -->
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
